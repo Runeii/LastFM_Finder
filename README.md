@@ -1,4 +1,4 @@
-# LastFM_Finder
+# Last.FM Artist Finder
 Developed in Python in a single afternoon, this OSX app uses the Last.FM API to discover artists you've previously listened to, but who do not currently exist in your iTunes library.
 
 ## Important notice
